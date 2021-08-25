@@ -1,1 +1,2 @@
-fuck,ya!:
+fuck,ya!
+ssh test:
